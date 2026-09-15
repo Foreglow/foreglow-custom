@@ -56,7 +56,7 @@ foreglow_build_prompt() {
 
   out+="%K{$BORDER}%F{$prev_bg}${FOREGLOW_SEP}%F{$FOREGROUND_DIM} $(weekday_glyph) %D{%H:%M:%S} "
   out+="%k%F{$BORDER}${FOREGLOW_SEP}%f "
-  out+="%F{$CURSOR}${FOREGLOW_PROMPT_CHAR}%f "
+  out+="%F{$KEYWORD}${FOREGLOW_PROMPT_CHAR}%f "
 
   printf '%s' "$out"
 }
