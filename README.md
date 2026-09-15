@@ -1,4 +1,15 @@
+<p align="center"><img width="320" alt="foreglow-logo" src="https://github.com/user-attachments/assets/5b0f629b-9800-4c97-b23b-fa3f22681ea4" /></p>
+
 <h3 align="center">Foreglow Custom</h3>
+
+<p align="center">
+  <a href="https://github.com/Foreglow/foreglow-custom/stargazers"><img src="https://img.shields.io/github/stars/Foreglow/foreglow-custom?style=for-the-badge&labelColor=313244&color=CB81E4" alt="Stars" /></a>
+  <a href="https://github.com/Foreglow/foreglow-custom/issues"><img src="https://img.shields.io/github/issues/Foreglow/foreglow-custom?style=for-the-badge&labelColor=313244&color=8930A6" alt="Issues" /></a>
+  <a href="https://github.com/Foreglow/foreglow-custom/graphs/contributors"><img src="https://img.shields.io/github/contributors/Foreglow/foreglow-custom?style=for-the-badge&labelColor=313244&color=FF6B8A" alt="Contributors" /></a>
+  <a href="https://github.com/Foreglow/foreglow-custom/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Foreglow/foreglow-custom?style=for-the-badge&labelColor=313244&color=2EE8C8" alt="License" /></a>
+</p>
+
+<img width="935" height="646" alt="foreglow-custom" src="https://github.com/user-attachments/assets/8a4ef711-591d-47af-a349-117d201c7178" />
 
 A powerline-style zsh prompt, built on the Foreglow color
 family. One script sets up zsh (if you don't have it), wires
